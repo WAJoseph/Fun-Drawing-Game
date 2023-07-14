@@ -29,3 +29,7 @@ This web application features a robust user authentication system that uses JSON
 ## Code Organization
 
 To ensure code organization and maintainability, this project adheres to the Model-View-Controller (MVC) architectural pattern.
+
+## .env Variables
+
+Make sure to replace <your access token secret>, <your refresh token secret>, <your session secret>, and <your MongoDB URI> with your own values.
